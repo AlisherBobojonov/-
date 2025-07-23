@@ -90,6 +90,11 @@ nav a {
 
 .product-card h3 {
   margin: 10px 0;
+  font-size: 18px;
+}
+
+.product-card p {
+  font-size: 16px;
 }
 
 .product-card button {
